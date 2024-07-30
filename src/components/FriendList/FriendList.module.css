@@ -1,0 +1,14 @@
+.friendList {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    padding: 0;
+}
+
+.item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    width: 120px;
+}
